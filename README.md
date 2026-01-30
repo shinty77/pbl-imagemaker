@@ -18,6 +18,9 @@ PBL 授業の課題として、Web アプリケーション開発の流れを学
 - Chakra UI
 - fabric.js
 
+## AIの利用について
+本プロジェクトでは、アイデア検討やエラー調査の補助として AI ツールを一部利用しました。 
+
 ## Getting Started
 ```bash
 npm install
