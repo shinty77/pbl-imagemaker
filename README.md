@@ -25,6 +25,7 @@ PBL 授業の課題として、Web アプリケーション開発の流れを学
 ```bash
 npm install
 npm run dev
+```
 
 Open http://localhost:3000 in your browser.
 
