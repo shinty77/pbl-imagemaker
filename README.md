@@ -1,12 +1,12 @@
 # pbl-imagemaker
 
 ## Overview
-A PBL project web application built with Next.js.
-This app allows users to create images by combining shapes and save them.
+This is a PBL project web application built with Next.js.  
+Using fabric.js, it allows users to create and save manga-style images by combining shapes.
 
 ## 概要
-Next.js を用いて作成した PBL 課題用の Web アプリです。
-図形を組み合わせて漫画風の画像を作成し、保存することができます。
+Next.js を用いて作成した PBL 課題用の Web アプリです。  
+fabric.js を利用して、図形を組み合わせて漫画風の画像の作成・保存を行うことができます。
 
 ## 制作目的
 PBL 授業の課題として、Web アプリケーション開発の流れを学ぶために制作しました。
@@ -16,6 +16,7 @@ PBL 授業の課題として、Web アプリケーション開発の流れを学
 - React
 - TypeScript
 - Chakra UI
+- fabric.js
 
 ## Getting Started
 ```bash
